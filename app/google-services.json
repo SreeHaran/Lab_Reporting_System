@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "169577984069",
+    "project_id": "online-lab-reporting-system",
+    "storage_bucket": "online-lab-reporting-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169577984069:android:0779efb4035dc27714f32c",
+        "android_client_info": {
+          "package_name": "com.sreeharan.labreportingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169577984069-nm8vj0sedfh32gt6iah4mi5nokcbqifa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4n4-yAEybe1OJJJiQ3b9pbsuPWly9mHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169577984069-nm8vj0sedfh32gt6iah4mi5nokcbqifa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
